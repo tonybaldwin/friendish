@@ -1,0 +1,18 @@
+friendi.sh
+=========
+post to friendica over API with bash and curl
+by tony baldwin
+http://tonyb.us/friendish
+https://free-haven.org/profile/tony
+
+Friendica posting script with xposting control
+Post to Friendica from your bash terminal,
+control crossposting to external networks.
+
+License: 
+released according to the terms of the GPL v. 3 or later.
+
+Installation:
+run the install.sh script
+
+bash/english
